@@ -1,0 +1,10 @@
+
+
+I2C£º
+GND              ground
+VCC              3.3V or 5V
+
+A5		=	SCL
+A4		=	SDA
+
+4.Compile and download
